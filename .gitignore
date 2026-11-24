@@ -1,0 +1,9 @@
+node_modules/
+cypress.env.json
+.env
+.env.*
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+.idea/
+.vscode/
